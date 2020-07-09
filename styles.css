@@ -1,0 +1,23 @@
+body{text-align: left;
+background-color: #e7b2a5}
+
+ul{text-align: left;
+list-style-position: inside;
+color: #30475e;
+font-family: 'Ubuntu', sans-serif;}
+ol{text-align: left;
+list-style-position: inside;
+color: #30475e;
+font-family: 'Ubuntu', sans-serif;}
+
+h2{color: #ba6b57;
+font-family: 'Ubuntu', sans-serif;}
+
+h3{color: #ba6b57;
+font-family: 'Ubuntu', sans-serif;}
+
+h4{color: #f1935c;
+font-family: 'Ubuntu', sans-serif;}
+
+p{color: #30475e;
+font-family: 'Ubuntu', sans-serif;}
